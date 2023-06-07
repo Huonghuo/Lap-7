@@ -1,6 +1,6 @@
 .tooltip { 
     display: inline;
-	position: absolute;
+	position: relative;
 	background-color:lightblue;
 	text-align: center;
 	padding:5px;
