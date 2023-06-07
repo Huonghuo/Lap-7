@@ -1,5 +1,5 @@
 .tooltip { 
-    display: none;
+    display: inline;
 	position: relative;
 	background-color:blue;
 	text-align: center;
